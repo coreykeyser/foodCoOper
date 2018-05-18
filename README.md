@@ -23,3 +23,5 @@ Git and Cooperative build etiquette:
 2. ASK QUESTIONS! Text me if you need something
 3. Comment the hell out of whatever you do, write a few sentences about the structure of the file you are working on at the beginnning that explains the logic of the file
 4. don't write everything in one file! try to break files up depending on the functions, 1 big and complicated file is worse than 5 well structured files that work together
+5. don't be redundant, never write the same code twice, make sure that the functions can work with configs
+6. write all the configs for the file at the beginning, make it work well enough so that you can understand and change the code within the first couple lines
