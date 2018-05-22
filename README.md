@@ -7,7 +7,7 @@ Pipeline:
 3. Output: exact order for the suppliers and the exact amounts each person should get.
 
 Build timeline:
-1. First build will be MVPish. We want to get something working and then build from there. The downsides will that the users will at first have to go on excel and create the exact required input files with savings....this will include "pruning" the original order by deciding which types of each food we will use (can get ten different types of apples of varying sizes and kinds)....will need to  include some sort of smart sign in. For simplicity the first build will not include berry package or avocado package.
+1. First build will be MVPish. We want to get something working and then build from there. The downsides will that the users will at first have to go on excel and create the exact required input files with savings....this will include "pruning" the original order by deciding which types of each food we will use (can get ten different types of apples of varying sizes and kinds)....will need to  include some sort of smart sign in. For simplicity the first build will only include berry packages and avocado packages that pay for themselves.
 2. Secondary build---integration of various helpful things into the simple first build....can inlcude automated pruning of the original order forms, tools to update counts on the day of buy after quality control. Add berry and avocado package.
 3. Tertiary build---optimize for multiple sources, make GUI to improve experience for users, web crawl for Kroger prices, tools to automate sign in through QR codes, etc.
 
